@@ -4,7 +4,8 @@ Sending QBCore Logs to Elastic Search System For better logging
 <ul>
 <li>No rate limit like discord, slack</li>
 <li>Better logs filter, finder</li>
-<li>Using your own server with local transport - with zero delay<li>
+<li>Using your own server with local transport - with zero delay</li>
+<li>Can be using as DataSource for Grafana to display Dashboard 😎</li>
 </ul>
 <strong> Just see the sample images </strong>
 <img src="https://user-images.githubusercontent.com/38779855/203367485-adfc5ef4-3ebc-4c12-b011-fb95ee45281f.png">
