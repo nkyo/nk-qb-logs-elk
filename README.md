@@ -12,5 +12,5 @@ Sending QBCore Logs to Elastic Search System For better logging
 <h3>Comming Soon</h3>
 
 Using ELK Docker in this repository 
-<div class="github-card" data-github="nkyo/elk-docker-compose" data-width="400" data-height="150" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
+https://github.com/nkyo/elk-docker-compose
